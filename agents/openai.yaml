@@ -1,0 +1,4 @@
+interface:
+  display_name: "包装效果图转平面展开稿"
+  short_description: "先针对具体产品问答补齐尺寸、结构和工艺，再制作可编辑包装展开稿并检查实物落地条件"
+  default_prompt: "请使用 $packaging-flat-artwork，先读取我的产品效果图和已有资料，针对缺少的长宽高、装填、材料和工艺进行分轮Q&A，答案明确后制作对应的平面展开稿，并记录工厂与打样待确认项。"
